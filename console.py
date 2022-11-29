@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Console module - entry point of the command interpreter"""
+"""Console module - entry point of the command line interpreter"""
 import cmd
 import json
 from models import storage
